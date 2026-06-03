@@ -1,0 +1,17 @@
+PROJECT-2 DATA ANALYSIS REPORT
+--------------------------------------------------
+Input file: C:\Users\Ayesha Asna\Downloads\Dataset for Data Analytics (1).xlsx
+Rows: 1200, Columns: 14
+Total missing values: 309
+Numeric columns: ['Quantity', 'UnitPrice', 'ItemsInCart', 'TotalPrice']
+
+KEY OBSERVATIONS:
+- Dataset size: 1200 rows and 14 columns.
+- Total missing values found: 309.
+- Numeric columns analyzed: 4.
+- Highest outlier concentration: TotalPrice (0.67%).
+- Quantity shows an overall decreasing monthly trend.
+- Highest average value appears in TotalPrice (mean=1053.97).
+
+Saved stats CSV: D:\DECODESLAB INTERNSHIP\PROJECT-2\project2_numeric_statistics.csv
+Saved outlier CSV: D:\DECODESLAB INTERNSHIP\PROJECT-2\project2_outlier_summary.csv
